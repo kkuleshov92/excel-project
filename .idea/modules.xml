@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Excel_Work.iml" filepath="$PROJECT_DIR$/.idea/Excel_Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apps/cashback-global-landing/.idea/cashback-global-landing.iml" filepath="$PROJECT_DIR$/../apps/cashback-global-landing/.idea/cashback-global-landing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apps/sincere-cannabis-front/.idea/sincere-cannabis-front.iml" filepath="$PROJECT_DIR$/../apps/sincere-cannabis-front/.idea/sincere-cannabis-front.iml" />
     </modules>
   </component>
 </project>
